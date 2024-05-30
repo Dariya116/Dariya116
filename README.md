@@ -13,3 +13,9 @@
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtwd2dkaml6MWkwMmY1OTV3cGh2Y3hmNThvZmVsN2lybXhiYnZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"/>
 </div>
+<div>
+:woman_technologist: Обо мне :
+:computer: Я frontend разработчик
+:dart: Моя цель - создавать уникальные и интересные веб-приложения, которые помогут пользователям в их повседневной жизни.
+:iphone:Я всегда открыта новым идеям и сотрудничеству! Вместе мы можем создать что-то по-настоящему удивительное! [ [![Telegram Badge]https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white](https://t.me/Alexandrova_Dariya)
+ </div> 
