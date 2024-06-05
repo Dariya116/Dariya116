@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <h1>
    Hello world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtwd2dkaml6MWkwMmY1OTV3cGh2Y3hmNThvZmVsN2lybXhiYnZsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"/>
   <div id="badges">
   <a href="https://t.me/Alexandrova_Dariya">
@@ -11,7 +11,7 @@
 </div>
 </div>
 <div> 
-  
+
 :woman_technologist: Обо мне :
   
 :computer: Я frontend разработчик.
@@ -34,5 +34,13 @@
 
 </div>
 
+---
 
+ :fire: Моя статистика :
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dariya116&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dariya116&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
  
